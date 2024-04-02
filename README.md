@@ -2,4 +2,4 @@
 
 ## My Tableau Public Dashboard
 
-[Link to Dashboard](https://public.tableau.com/views/Assesment_Dashboard_17107439559210/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+[Link to Dashboard](https://public.tableau.com/shared/FMKYM4KJQ?:display_count=n&:origin=viz_share_link)
